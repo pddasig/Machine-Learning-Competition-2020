@@ -16,6 +16,9 @@ You are provided with two datasets: Well #1 dataset and Well #2 dataset. You nee
 [Petrophysical Data-Driven Analytics (PDDA)](https://www.spwla.org/SPWLA/Chapters_SIGs/SIGs/PDDA/PDDA.aspx), a special interest group under society of Petrophysicists and Well Log Analysts (SPWLA), is announcing its first machine learning contest in 2020!
 The contest is open to all SPWLA members (including student members) or whoever are interested in machine learning applications in petrophysics. Top winner teams will be awarded prizes and invited to present their work on the PDDA SIG annual meeting. If you or your teams are interested in this contest, please pre-register with Yanxiang Yu (pdda_sig@spwla.org) by submitting your team information including names, affiliations and contacts before January 31, 2020.
 
+## Cometition Rules
+We'll be releasing the compeition dataset and competition rule shortly...
+
 ## Sponsoring opportunities:
 SPWLA PDDA SIG is accepting sponsorship for this event to award the top winning teams. Please contact Yanxiang Yu for details.
 
