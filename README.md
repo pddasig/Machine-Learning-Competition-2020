@@ -44,7 +44,9 @@ Your submission needs to follow the same format as the ‘sample_submission.csv�
 A blind test dataset from 20% of the hidden dataset is released for the your judgement, you may check your model performance based on this dataset as many times as you want. This dataset will be released after the registration deadline. 
 
 You may select up to 3 submissions for judging before the entry deadline, the highest score will be used for your rank. 
-You must submit your runnable code in a Notebook/JupyterNotebook format before the end date, any code submission with sever bugs or results in a different number from the data entry will not be ranked or awarded.  
+You must submit your runnable code in a Notebook/JupyterNotebook format before the end date, any code submission with sever bugs or results in a different number from the data entry will not be ranked or awarded. 
+
+** Please make sure to use **"random_state"** or **"SEED"** for all the steps that involves randomization in your model, this will ensure the same result run by the judges.    
 
 
 ### Privacy Rules
@@ -68,7 +70,7 @@ You can submit "Issues" ticket to the repository if you find any problem of the 
 ### PRIZES POLICY: 
 Top 5 winning teams will be awarded with prizes based on the final prize pool.
 
-Novel and practical algorithms will be recommended for a submission to the next SPWLA special issue on PDDA. 
+Novel and practical algorithms will be recommended for a submission to the next SPWLA special issue by PDDA. 
 
 ### DATA LICENSING
 The data comes from VOLVE dataset owned by Equinor. 
@@ -81,9 +83,9 @@ The Competition named above is a skills-based competition to promote and further
 
 
 ### Sponsoring opportunities:
-SPWLA PDDA SIG is accepting sponsorship for this event to award the top winning teams. Please contact Yanxiang Yu for details.
+SPWLA PDDA SIG is accepting sponsorship for this event to award the top winning teams. Please contact Yanxiang Yu(pdda_sig@spwla.org) for details.
 
 ### SPWLA PDDA SIG Contest Committee:
-Yanxiang Yu, Michael Ashby, Brendon Hall, Chicheng Xu, Siddharth Misra, Weichang Li, Yan Xu, Oghenekaro Osogba
+Yanxiang Yu, Michael Ashby, Brendon Hall, Chicheng Xu, Siddharth Misra, Weichang Li, Yan Xu, Oghenekaro Osogba
 
 
