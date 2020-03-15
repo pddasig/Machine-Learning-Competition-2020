@@ -2,6 +2,12 @@
 
 ## SPWLA PDDA’s 1st Petrophysical Data-Driven Analytics Contest -- Sonic Log Synthesis
 
+
+### Sponsored by:
+[SPWLA-PDDA](https://www.spwla.org/SPWLA/Chapters_SIGs/SIGs/PDDA/PDDA.aspx)
+
+[SparkCognition](https://www.sparkcognition.com/?utm_medium=direct&utm_source=direct)
+
 ### Background
 Well logs are interpreted/processed to estimate the in-situ petrophysical and geomechanical properties, which is essential for subsurface characterization. Various types of logs exist, and each provides distinct information about subsurface properties. Certain well logs, like gamma ray (GR), resistivity, density, and neutron logs, are considered as “easy-to-acquire” conventional well logs that are run in most of the wells. Other well logs, like nuclear magnetic resonance, dielectric dispersion, elemental spectroscopy, and sometimes sonic logs, are only run in limited number of wells.
 
@@ -68,7 +74,9 @@ You can submit "Issues" ticket to the repository if you find any problem of the 
 
 
 ### PRIZES POLICY: 
-Top 5 winning teams will be awarded with prizes based on the final prize pool.
+Prize pool: __$1500__
+
+Top 5 winning teams will be awarded with prizes(NOT in cash) based on the final prize pool.
 
 Novel and practical algorithms will be recommended for a submission to the next SPWLA special issue by PDDA. 
 
@@ -82,8 +90,6 @@ ENTRY IN THIS COMPETITION CONSTITUTES YOUR ACCEPTANCE OF THESE OFFICIAL COMPETIT
 The Competition named above is a skills-based competition to promote and further the field of data science. You must submit your registration to pdda_sig@spwla.org to enter. Your competition submissions ("Submissions") must conform to the requirements stated on the Competition Website. Your Submissions will be scored based on the evaluation metric described on the Competition Website. Subject to compliance with the Competition Rules, Prizes, if any, will be awarded to participants with the best scores, based on the merits of the data science models submitted. Check the competition website for the complete Competition Rules.
 
 
-### Sponsoring opportunities:
-SPWLA PDDA SIG is accepting sponsorship for this event to award the top winning teams. Please contact Yanxiang Yu(pdda_sig@spwla.org) for details.
 
 ### SPWLA PDDA SIG Contest Committee:
 Yanxiang Yu, Michael Ashby, Brendon Hall, Chicheng Xu, Siddharth Misra, Weichang Li, Yan Xu, Oghenekaro Osogba
