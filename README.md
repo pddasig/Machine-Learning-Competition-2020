@@ -9,7 +9,10 @@
 [SparkCognition](https://www.sparkcognition.com/?utm_medium=direct&utm_source=direct)
 
 ### Leaderboard
-Root mean squared error(RMSE) is calculated from the DTC and DTS values of the hidden dataset. 
+Root mean squared error(RMSE) is calculated from the DTC and DTS values of the hidden dataset.
+
+![equation](https://github.com/pddasig/Machine-Learning-Competition-2020/blob/master/pictures/CodeCogsEqn.png)
+
 | Rank | Team Name   | Submission1  | Submission2  | Submission3 | Best Solution | Notebook                                                                                                                                                         |
 |:----:|-------------|--------------|--------------|-------------|---------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |   1  | SedStrat    | 15.77521     |              |             |               |                                                                                                                                                                  |
