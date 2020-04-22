@@ -10,10 +10,12 @@
 
 ### Leaderboard
 Root mean squared error(RMSE) is calculated from the DTC and DTS values of the hidden dataset. 
-| Team Name | Submission1 | Submission2 | Submission3 | Best Solution | Notebook                                                                                                                                                        |
-|-----------|-------------|-------------|-------------|---------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Curiosity | 17.88773    |             |             |               |                                                                                                                                                                 |
-| PDDA      | 17.92553    | *           | *           | Randomforest  | [Starter_Yu.ipyb](https://github.com/pddasig/Machine-Learning-Competition-2020/blob/master/Synthetic%20Sonic%20Log%20Generation%20Starter_Yu%202_27_2020.ipynb) |
+| Rank | Team Name   | Submission1  | Submission2  | Submission3 | Best Solution | Notebook                                                                                                                                                         |
+|:----:|-------------|--------------|--------------|-------------|---------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   1  | SedStrat    | 15.77521     |              |             |               |                                                                                                                                                                  |
+|   2  | TrashPandas | 20.60043     | 17.27522     |             |               |                                                                                                                                                                  |
+|   3  | Curiosity   | 17.88773     |              |             |               |                                                                                                                                                                  |
+|   4  | PDDA        | 17.92553     | *            | *           | Randomforest  | [Starter_Yu.ipyb](https://github.com/pddasig/Machine-Learning-Competition-2020/blob/master/Synthetic%20Sonic%20Log%20Generation%20Starter_Yu%202_27_2020.ipynb)  |
 
 ### Background
 Well logs are interpreted/processed to estimate the in-situ petrophysical and geomechanical properties, which is essential for subsurface characterization. Various types of logs exist, and each provides distinct information about subsurface properties. Certain well logs, like gamma ray (GR), resistivity, density, and neutron logs, are considered as “easy-to-acquire” conventional well logs that are run in most of the wells. Other well logs, like nuclear magnetic resonance, dielectric dispersion, elemental spectroscopy, and sometimes sonic logs, are only run in limited number of wells.
