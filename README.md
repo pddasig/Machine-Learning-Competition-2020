@@ -62,6 +62,8 @@ Your submission needs to follow the same format as the â€˜sample_submission.csvâ
 
 A blind test dataset from 20% of the hidden dataset is released for the your judgement, you may check your model performance based on this dataset as many times as you want. This dataset will be released after the registration deadline. 
 
+Please note that the purpose of the released dataset is providing a validation tool to check the performance of your model. However, in the real application there would be no such data, since we will not have any access to the new well's data. Therefore please do not use the data during training your model. 
+
 You may select up to 3 submissions for judging before the entry deadline, the highest score will be used for your rank. 
 You must submit your runnable code in a Notebook/JupyterNotebook format before the end date, any code submission with sever bugs or results in a different number from the data entry will not be ranked or awarded. 
 
