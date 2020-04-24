@@ -13,14 +13,15 @@ Root mean squared error(RMSE) is calculated from the DTC and DTS values of the h
 
 ![equation](https://github.com/pddasig/Machine-Learning-Competition-2020/blob/master/pictures/CodeCogsEqn.png)
 
-| Rank | Team Name               | Submission1  | Submission2  | Submission3 | Best Solution | Notebook                                                                                                                                                         | Best     |
-|:----:|-------------------------|--------------|--------------|-------------|---------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
-|   1  | SedStrat                | 15.77521     |              |             |               |                                                                                                                                                                  | 15.77521 |
-|   2  | Curiosity               | 17.88773     | 15.96676     |             |               |                                                                                                                                                                  | 15.96676 |
+| Rank | Team Name              | Submission1  | Submission2  | Submission3 | Best Solution | Notebook                                                                                                                                                         | Best     |
+|:----:|------------------------|--------------|--------------|-------------|---------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
+|   1  | SedStrat               | 15.77521     |              |             |               |                                                                                                                                                                  | 15.77521 |
+|   2  | Curiosity              | 17.88773     | 15.96676     |             |               |                                                                                                                                                                  | 15.96676 |
 |   3  | SubsurfaceIntelligence | 16.92818     |              |             |               |                                                                                                                                                                  | 16.92818 |
-|   4  | TrashPandas             | 20.60043     | 17.27522     |             |               |                                                                                                                                                                  | 17.27522 |
-|   5  | DataDrivenPancakes                | 17.64751     |              |             |               |                                                                                                                                                                  | 17.64751 |
-|   6  | PDDA                    | 17.92553     | *            | *           | Randomforest  | [Starter_Yu.ipyb](https://github.com/pddasig/Machine-Learning-Competition-2020/blob/master/Synthetic%20Sonic%20Log%20Generation%20Starter_Yu%202_27_2020.ipynb)  | 17.92553 |
+|   4  | TrashPandas            | 20.60043     | 17.27522     |             |               |                                                                                                                                                                  | 17.27522 |
+|   5  | HoustonEnergyTeam      | 17.30373     |              |             |               |                                                                                                                                                                  | 17.30373 |
+|   6  | DataDrivenPancakes     | 17.64751     |              |             |               |                                                                                                                                                                  | 17.64751 |
+|   7  | PDDA                   | 17.92553     | *            | *           | Randomforest  | [Starter_Yu.ipyb](https://github.com/pddasig/Machine-Learning-Competition-2020/blob/master/Synthetic%20Sonic%20Log%20Generation%20Starter_Yu%202_27_2020.ipynb)  | 17.92553 |
 
 
 ### Background
