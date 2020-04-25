@@ -21,9 +21,10 @@ Root mean squared error(RMSE) is calculated from the DTC and DTS values of the h
 |   4  | SubsurfaceIntelligence | 16.92818     |              |             |               |                                                                                                                                                                  | 16.92818 |
 |   5  | TeamTriumphant         | 17.15541     |              |             |               |                                                                                                                                                                  | 17.15541 |
 |   6  | TrashPandas            | 20.60043     | 17.27522     |             |               |                                                                                                                                                                  | 17.27522 |
-|   7  | HoustonEnergyTeam      | 17.30373     |              |             |               |                                                                                                                                                                  | 17.30373 |
+|   7  | HoustonEnergyTeam      | 17.30373     | 34.81143     |             |               |                                                                                                                                                                  | 17.30373 |
 |   8  | DataDrivenPancakes     | 17.64751     |              |             |               |                                                                                                                                                                  | 17.64751 |
 |   9  | PDDA                   | 17.92553     | *            | *           | Randomforest  | [Starter_Yu.ipyb](https://github.com/pddasig/Machine-Learning-Competition-2020/blob/master/Synthetic%20Sonic%20Log%20Generation%20Starter_Yu%202_27_2020.ipynb)  | 17.92553 |
+|  10  | IIT Roorkee            | 19.12469     |              |             |               |                                                                                                                                                                  | 19.12469 |
 
 
 ### Background
