@@ -19,7 +19,7 @@
 | ***3rd Place*** | **RockAbusers** | Arkhat Kalbekov( akalbekov@mines.edu)            |
 |           |             | Valeria Suarez(vasuarezbolivar@mymail.mines.edu) |
 | ***4th Place*** | **StuckAtHome** |                                                    |
-| ***5th Place*** | **SedStrat**    | Epo Prasetya Kusumah(epo.kusumah@gmail.com)      |
+| ***5th Place*** | **SedStrat**    | Epo Prasetya Kusumah( epo.pk@universitaspertamina.ac.id)      |
 |           |             | Mohammad Aviandito(aviandito@gmail.com)          |
 |           |             | Yogi Pamadya(yogipamadya@gmail.com)              |
 
