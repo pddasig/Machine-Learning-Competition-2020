@@ -11,15 +11,15 @@
 ### Winner:
 |           | Winner Team      | Contact                                            |
 |-----------|-------------|----------------------------------------------------|
-| **1st Place** | UTFE        | Wen Pan(wenpan@utexas.edu)                       |
+| ***1st Place*** | **UTFE**        | Wen Pan(wenpan@utexas.edu)                       |
 |           |             | Tianqi Deng(tianqizx@utexas.edu)                 |
 |           |             | Honggeun Jo(honggeun.jo@utexas.edu)              |
 |           |             | Javier Santos(jesantos@utexas.edu)               |
-| **2nd Place** | iwave       |                                                    |
-| **3rd Place** | RockAbusers | Arkhat Kalbekov( akalbekov@mines.edu)            |
+| ***2nd Place*** | **iwave**       |                                                    |
+| ***3rd Place*** | **RockAbusers** | Arkhat Kalbekov( akalbekov@mines.edu)            |
 |           |             | Valeria Suarez(vasuarezbolivar@mymail.mines.edu) |
-| **4th Place** | StuckAtHome |                                                    |
-| **5th Place** | SedStrat    | Epo Prasetya Kusumah(epo.kusumah@gmail.com)      |
+| ***4th Place*** | **StuckAtHome** |                                                    |
+| ***5th Place*** | **SedStrat**    | Epo Prasetya Kusumah(epo.kusumah@gmail.com)      |
 |           |             | Mohammad Aviandito(aviandito@gmail.com)          |
 |           |             | Yogi Pamadya(yogipamadya@gmail.com)              |
 
