@@ -15,7 +15,7 @@
 |           |             | Tianqi Deng(tianqizx@utexas.edu)                 |
 |           |             | Honggeun Jo(honggeun.jo@utexas.edu)              |
 |           |             | Javier Santos(jesantos@utexas.edu)               |
-| ***2nd Place*** | **iwave**       |                                                    |
+| ***2nd Place*** | **iwave**       |   Lei Fu(lei.fu.rice@gmail.com)                                                 |
 | ***3rd Place*** | **RockAbusers** | Arkhat Kalbekov( akalbekov@mines.edu)            |
 |           |             | Valeria Suarez(vasuarezbolivar@mymail.mines.edu) |
 | ***4th Place*** | **StuckAtHome** |                                                    |
