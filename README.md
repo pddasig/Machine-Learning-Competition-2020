@@ -11,56 +11,57 @@
 ### Winner:
 |           | Winner Team      | Contact                                            |
 |-----------|-------------|----------------------------------------------------|
-| **1st Place** | UTFE        | [Wen Pan](wenpan@utexas.edu)                       |
-|           |             | [Tianqi Deng](tianqizx@utexas.edu)                 |
-|           |             | [Honggeun Jo](honggeun.jo@utexas.edu)              |
-|           |             | [Javier Santos](jesantos@utexas.edu)               |
+| **1st Place** | UTFE        | Wen Pan(wenpan@utexas.edu)                       |
+|           |             | Tianqi Deng(tianqizx@utexas.edu)                 |
+|           |             | Honggeun Jo(honggeun.jo@utexas.edu)              |
+|           |             | Javier Santos(jesantos@utexas.edu)               |
 | **2nd Place** | iwave       |                                                    |
-| **3rd Place** | RockAbusers | [Arkhat Kalbekov]( akalbekov@mines.edu)            |
-|           |             | [Valeria Suarez](vasuarezbolivar@mymail.mines.edu) |
+| **3rd Place** | RockAbusers | Arkhat Kalbekov( akalbekov@mines.edu)            |
+|           |             | Valeria Suarez(vasuarezbolivar@mymail.mines.edu) |
 | **4th Place** | StuckAtHome |                                                    |
-| **5th Place** | SedStrat    | [Epo Prasetya Kusumah](epo.kusumah@gmail.com)      |
-|           |             | [Mohammad Aviandito](aviandito@gmail.com)          |
-|           |             | [Yogi Pamadya](yogipamadya@gmail.com)              |
+| **5th Place** | SedStrat    | Epo Prasetya Kusumah(epo.kusumah@gmail.com)      |
+|           |             | Mohammad Aviandito(aviandito@gmail.com)          |
+|           |             | Yogi Pamadya(yogipamadya@gmail.com)              |
 
 ### Leaderboard
 Root mean squared error(RMSE) is calculated from the DTC and DTS values of the hidden dataset.
 
 ![equation](https://github.com/pddasig/Machine-Learning-Competition-2020/blob/master/pictures/CodeCogsEqn.png)
 
-| Rank | Team Name              | Submission1  | Submission2  | Submission3 | Best Score | Best Solution  | Notebook                                                                                                                                                         |
-|:----:|------------------------|--------------|--------------|-------------|------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|   1  | UTFE                   | 12.35942     | 13.35115     | 32.46386    | 12.35942   | Neural Network | [Notebook](https://github.com/pddasig/Machine-Learning-Competition-2020/blob/master/Solutions/UTFE_Code%20.ipynb)                                                |
-|   2  | iwave                  | 15.08828     | 12.55189     |             | 12.55189   | LSTM           | [Notebook](https://github.com/pddasig/Machine-Learning-Competition-2020/blob/master/Solutions/iwave.ipynb)                                                       |
-|   3  | RockAbusers            | 20.50765     | 14.48556     | 13.2136     | 13.2136    | Randomforest   | [Notebook](https://github.com/pddasig/Machine-Learning-Competition-2020/blob/master/Solutions/RockAbusers%20Solution%20Submission.zip)                           |
-|   4  | StuckAtHome            | 18.94666     | 13.43166     | 14.49372    | 13.43166   | TreeEnsemble   | [Notebook](https://github.com/pddasig/Machine-Learning-Competition-2020/blob/master/Solutions/StuckAtHome_Solution2.ipynb)                                       |
-|   5  | SedStrat               | 15.77521     | 13.9795      | 13.84585    | 13.84585   | Ensemble       | [Notebook](https://github.com/pddasig/Machine-Learning-Competition-2020/blob/master/Solutions/Sedstrat%20%20solution%20submission.ipynb)                         |
-|   6  | RocketTeam             | 16.73045     | 14.83064     | 15.28531    | 14.83064   | LSTM           | [Notebook](https://github.com/pddasig/Machine-Learning-Competition-2020/blob/master/Solutions/Rocket_Team_solution.ipynb)                                        |
-|   7  | iPetro                 | 42.72428     | 15.38718     | 16.26382    | 15.38718   | Neural Network | [Notebook](https://github.com/pddasig/Machine-Learning-Competition-2020/blob/master/Solutions/iPetro.rar)                                                        |
-|   8  | Oilers                 | 16.10336     | 15.75537     | 15.88693    | 15.75537   | XGBoost        | [Notebook](https://github.com/pddasig/Machine-Learning-Competition-2020/blob/master/Solutions/Oilers_solution.ipynb)                                             |
-|   9  | DataDrivenPancakes     | 17.64751     | 16.5649      | 16.31731    | 16.31731   | Ensemble       | [Notebook](https://github.com/pddasig/Machine-Learning-Competition-2020/blob/master/Solutions/datadrivenpancakes_solution_submission_3.ipynb)                    |
-|  10  | TeamTriumphant         | 17.15541     | 16.41215     |             | 16.41215   | LGBM           | [Notebook](https://github.com/pddasig/Machine-Learning-Competition-2020/blob/master/Solutions/Re_%20Team%20Triumphant%20Submission%201.zip)                      |
-|  11  | TheMeanSquares         | 17.25595     | 16.60382     |             | 16.60382   | LGBM           | [Notebook](https://github.com/pddasig/Machine-Learning-Competition-2020/blob/master/Solutions/TheMeanSquares_solution_submission.ipynb)                          |
-|  12  | Explorum               | 16.78546     | 16.70458     | 19.43063    | 16.70458   | Randomforest   | [Notebook](https://github.com/pddasig/Machine-Learning-Competition-2020/blob/master/Solutions/Explorum%20solution%20Submission.zip)                              |
-|  13  | MSArchie               | 17.92182     | 18.49677     | 16.9674     | 16.9674    | Ensemble       | [Notebook](https://github.com/pddasig/Machine-Learning-Competition-2020/blob/master/Solutions/MSArchie.zip)                                                      |
-|  14  | MLogging               | 17.64474     | 16.98075     | 17.08573    | 16.98075   | Ensemble       | [Notebook](https://github.com/pddasig/Machine-Learning-Competition-2020/blob/master/Solutions/MLogging%20Team%20submission.ipynb)                                |
-|  15  | TrashPandas            | 20.60043     | 17.27522     |             | 17.27522   | Tree Ensemble  | [Notebook](https://github.com/pddasig/Machine-Learning-Competition-2020/tree/master/Solutions/TrashPandas)                                                       |
-|  16  | TeamTF                 | 17.47539     |              |             | 17.47539   | Tree Ensemble  | [Notebook](https://github.com/pddasig/Machine-Learning-Competition-2020/blob/master/Solutions/TeamTF_PDDA_SIG_Synthetic_Sonic.ipynb)                             |
-|  17  | PDDA                   | 17.92553     | *            | *           | 17.92553   | Randomforest   | [Starter_Yu.ipyb](https://github.com/pddasig/Machine-Learning-Competition-2020/blob/master/Synthetic%20Sonic%20Log%20Generation%20Starter_Yu%202_27_2020.ipynb)  |
-|  18  | UNDFightingHawks       | 20.23271     |              |             | 20.23271   | Randomforest   | [Notebook](https://github.com/pddasig/Machine-Learning-Competition-2020/blob/master/Solutions/UNDFightingHawks%20Solution%20submission.zip)                      |
-|  19  | DoaIbu                 | *            | 21.76094     | 20.34702    | 20.34702   | Ensemble       | [Notebook](https://github.com/pddasig/Machine-Learning-Competition-2020/blob/master/Solutions/DoaIbu_solution_submission.ipynb)                                  |
-|  20  | TensorITB              | 49.12462     | 23.92497     |             | 23.92497   |                |                                                                                                                                                                  |
-|      | Synergy                | 16.67447     | 14.93986     | 14.28895    | 14.28895   |                |                                                                                                                                                                  |
-|      | LACrew                 | 16.32477     | 15.61239     |             | 15.61239   |                |                                                                                                                                                                  |
-|      | DATUM                  | 15.93848     |              |             | 15.93848   |                |                                                                                                                                                                  |
-|      | Curiosity              | 17.88773     | 15.96676     |             | 15.96676   |                |                                                                                                                                                                  |
-|      | Diagenesis             | 16.58438     | 17.78348     |             | 16.58438   |                |                                                                                                                                                                  |
-|      | SubsurfaceIntelligence | 16.92818     | 27.10664     | 17.29662    | 16.92818   |                |                                                                                                                                                                  |
-|      | Colonels               | 82.86812     | 17.22655     |             | 17.22655   |                |                                                                                                                                                                  |
-|      | HoustonEnergyTeam      | 17.30373     | 34.81143     | 32.64157    | 17.30373   |                |                                                                                                                                                                  |
-|      | TeamCGG                | 17.38406     | 18.32504     | 18.11758    | 17.38406   |                |                                                                                                                                                                  |
-|      | IIT Roorkee            | 19.12469     | 20.95423     |             | 19.12469   |                |                                                                                                                                                                  |
-|      | GUCoders               | 22.91161     |              |             | 22.91161   |                |                                                                                                                                                                  |
+| Rank | Team Name              | Best Score | Best Solution  | Notebook                                                                                                                                                         |
+|:----:|------------------------|------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   1  | UTFE                   | 12.35942   | Neural Network | [Notebook](https://github.com/pddasig/Machine-Learning-Competition-2020/blob/master/Solutions/UTFE_Code%20.ipynb)                                                |
+|   2  | iwave                  | 12.55189   | LSTM           | [Notebook](https://github.com/pddasig/Machine-Learning-Competition-2020/blob/master/Solutions/iwave.ipynb)                                                       |
+|   3  | RockAbusers            | 13.2136    | Randomforest   | [Notebook](https://github.com/pddasig/Machine-Learning-Competition-2020/blob/master/Solutions/RockAbusers%20Solution%20Submission.zip)                           |
+|   4  | StuckAtHome            | 13.43166   | TreeEnsemble   | [Notebook](https://github.com/pddasig/Machine-Learning-Competition-2020/blob/master/Solutions/StuckAtHome_Solution2.ipynb)                                       |
+|   5  | SedStrat               | 13.84585   | Ensemble       | [Notebook](https://github.com/pddasig/Machine-Learning-Competition-2020/blob/master/Solutions/Sedstrat%20%20solution%20submission.ipynb)                         |
+|   6  | RocketTeam             | 14.83064   | LSTM           | [Notebook](https://github.com/pddasig/Machine-Learning-Competition-2020/blob/master/Solutions/Rocket_Team_solution.ipynb)                                        |
+|   7  | iPetro                 | 15.38718   | Neural Network | [Notebook](https://github.com/pddasig/Machine-Learning-Competition-2020/blob/master/Solutions/iPetro.rar)                                                        |
+|   8  | Oilers                 | 15.75537   | XGBoost        | [Notebook](https://github.com/pddasig/Machine-Learning-Competition-2020/blob/master/Solutions/Oilers_solution.ipynb)                                             |
+|   9  | DataDrivenPancakes     | 16.31731   | Ensemble       | [Notebook](https://github.com/pddasig/Machine-Learning-Competition-2020/blob/master/Solutions/datadrivenpancakes_solution_submission_3.ipynb)                    |
+|  10  | TeamTriumphant         | 16.41215   | LGBM           | [Notebook](https://github.com/pddasig/Machine-Learning-Competition-2020/blob/master/Solutions/Re_%20Team%20Triumphant%20Submission%201.zip)                      |
+|  11  | TheMeanSquares         | 16.60382   | LGBM           | [Notebook](https://github.com/pddasig/Machine-Learning-Competition-2020/blob/master/Solutions/TheMeanSquares_solution_submission.ipynb)                          |
+|  12  | Explorum               | 16.70458   | Randomforest   | [Notebook](https://github.com/pddasig/Machine-Learning-Competition-2020/blob/master/Solutions/Explorum%20solution%20Submission.zip)                              |
+|  13  | MSArchie               | 16.9674    | Ensemble       | [Notebook](https://github.com/pddasig/Machine-Learning-Competition-2020/blob/master/Solutions/MSArchie.zip)                                                      |
+|  14  | MLogging               | 16.98075   | Ensemble       | [Notebook](https://github.com/pddasig/Machine-Learning-Competition-2020/blob/master/Solutions/MLogging%20Team%20submission.ipynb)                                |
+|  15  | TrashPandas            | 17.27522   | Tree Ensemble  | [Notebook](https://github.com/pddasig/Machine-Learning-Competition-2020/tree/master/Solutions/TrashPandas)                                                       |
+|  16  | TeamTF                 | 17.47539   | Tree Ensemble  | [Notebook](https://github.com/pddasig/Machine-Learning-Competition-2020/blob/master/Solutions/TeamTF_PDDA_SIG_Synthetic_Sonic.ipynb)                             |
+|  17  | PDDA                   | 17.92553   | Randomforest   | [Starter_Yu.ipyb](https://github.com/pddasig/Machine-Learning-Competition-2020/blob/master/Synthetic%20Sonic%20Log%20Generation%20Starter_Yu%202_27_2020.ipynb)  |
+|  18  | UNDFightingHawks       | 20.23271   | Randomforest   | [Notebook](https://github.com/pddasig/Machine-Learning-Competition-2020/blob/master/Solutions/UNDFightingHawks%20Solution%20submission.zip)                      |
+|  19  | DoaIbu                 | 20.34702   | Ensemble       | [Notebook](https://github.com/pddasig/Machine-Learning-Competition-2020/blob/master/Solutions/DoaIbu_solution_submission.ipynb)                                  |
+|  20  | TensorITB              | 23.92497   |                |                                                                                                                                                                  |
+|      | Synergy                | 14.28895   |                |                                                                                                                                                                  |
+|      | LACrew                 | 15.61239   |                |                                                                                                                                                                  |
+|      | DATUM                  | 15.93848   |                |                                                                                                                                                                  |
+|      | Curiosity              | 15.96676   |                |                                                                                                                                                                  |
+|      | Diagenesis             | 16.58438   |                |                                                                                                                                                                  |
+|      | SubsurfaceIntelligence | 16.92818   |                |                                                                                                                                                                  |
+|      | Colonels               | 17.22655   |                |                                                                                                                                                                  |
+|      | HoustonEnergyTeam      | 17.30373   |                |                                                                                                                                                                  |
+|      | TeamCGG                | 17.38406   |                |                                                                                                                                                                  |
+|      | IIT Roorkee            | 19.12469   |                |                                                                                                                                                                  |
+|      | GUCoders               | 22.91161   |                |                                                                                                                                                                  |
+
 
 ### Background
 Well logs are interpreted/processed to estimate the in-situ petrophysical and geomechanical properties, which is essential for subsurface characterization. Various types of logs exist, and each provides distinct information about subsurface properties. Certain well logs, like gamma ray (GR), resistivity, density, and neutron logs, are considered as “easy-to-acquire” conventional well logs that are run in most of the wells. Other well logs, like nuclear magnetic resonance, dielectric dispersion, elemental spectroscopy, and sometimes sonic logs, are only run in limited number of wells.
