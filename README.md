@@ -8,7 +8,7 @@
 
 [SparkCognition](https://www.sparkcognition.com/?utm_medium=direct&utm_source=direct)
 
-### Compeition Summary Paper:
+### Competition Summary Paper:
 [Competition Summary - Pseudo Sonic Log Generation](https://github.com/pddasig/Machine-Learning-Competition-2020/blob/master/Competition%20Summay%20-%20Pseudo%20Sonic%20Log%20Generation.pdf)
 
 
